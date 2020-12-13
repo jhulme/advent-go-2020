@@ -1,0 +1,747 @@
+***FAIL*** KEY: 7-8 r  VALUE:  xhrnqlrr MIN: 7 MAX: 8 COUNT: 3
+***PASS*** KEY: 2-6 r  VALUE:  rrrrrn
+***PASS*** KEY: 2-5 x  VALUE:  rxxllbfhnvxx
+***PASS*** KEY: 5-18 v  VALUE:  vkxvvsvwhvvvrvvvmrr
+***FAIL*** KEY: 4-5 f  VALUE:  jwfff MIN: 4 MAX: 5 COUNT: 3
+***FAIL*** KEY: 14-15 b  VALUE:  chmbmkxngftlfbf MIN: 14 MAX: 15 COUNT: 2
+***PASS*** KEY: 11-14 j  VALUE:  jjjwjjjjtmjjjgjj
+***FAIL*** KEY: 4-6 f  VALUE:  gffrffzffffffm MIN: 4 MAX: 6 COUNT: 10
+***PASS*** KEY: 7-10 t  VALUE:  ttttfttttt
+***PASS*** KEY: 5-14 h  VALUE:  rhjchxhlfjhxfhhb
+***PASS*** KEY: 14-16 j  VALUE:  jjjjjjmjnjxjjtjjjwj
+***PASS*** KEY: 5-11 s  VALUE:  ssssllsssssmh
+***PASS*** KEY: 3-12 z  VALUE:  zwqzjfmxgtxmqvzgqnsw
+***PASS*** KEY: 4-8 z  VALUE:  zxzzzdzrzz
+***PASS*** KEY: 1-4 q  VALUE:  qqqq
+***PASS*** KEY: 3-4 h  VALUE:  hhhjh
+***FAIL*** KEY: 6-10 b  VALUE:  bbbclbbbbhbbbbb MIN: 6 MAX: 10 COUNT: 12
+***FAIL*** KEY: 2-4 f  VALUE:  hvcf MIN: 2 MAX: 4 COUNT: 1
+***FAIL*** KEY: 12-13 j  VALUE:  jjjljjtjpjjjgj MIN: 12 MAX: 13 COUNT: 10
+***FAIL*** KEY: 3-6 s  VALUE:  qswngs MIN: 3 MAX: 6 COUNT: 2
+***PASS*** KEY: 3-6 h  VALUE:  hhhhwfhh
+***FAIL*** KEY: 2-5 v  VALUE:  rvznj MIN: 2 MAX: 5 COUNT: 1
+***PASS*** KEY: 2-4 h  VALUE:  hnhh
+***PASS*** KEY: 2-9 z  VALUE:  cwzthgjzzgzzhzz
+***PASS*** KEY: 18-20 c  VALUE:  cccccccccccccccccfcc
+***FAIL*** KEY: 3-4 q  VALUE:  vqntw MIN: 3 MAX: 4 COUNT: 1
+***PASS*** KEY: 3-9 f  VALUE:  fffffffff
+***PASS*** KEY: 11-18 g  VALUE:  gggggggggzzgggggggp
+***FAIL*** KEY: 8-10 q  VALUE:  qxgvffbqgq MIN: 8 MAX: 10 COUNT: 3
+***PASS*** KEY: 6-7 f  VALUE:  fffffbff
+***FAIL*** KEY: 2-7 h  VALUE:  hhqhfhvghzgtbfjhhshn MIN: 2 MAX: 7 COUNT: 8
+***FAIL*** KEY: 10-11 r  VALUE:  lttktskrkcx MIN: 10 MAX: 11 COUNT: 1
+***FAIL*** KEY: 1-5 w  VALUE:  wwwwhhwgwfgfkvwqbx MIN: 1 MAX: 5 COUNT: 7
+***FAIL*** KEY: 5-13 d  VALUE:  ddddddddddddndddd MIN: 5 MAX: 13 COUNT: 16
+***PASS*** KEY: 13-20 f  VALUE:  ffpsfffffffffffffffg
+***FAIL*** KEY: 10-11 t  VALUE:  tttntttttmtttt MIN: 10 MAX: 11 COUNT: 12
+***FAIL*** KEY: 6-13 f  VALUE:  fffffkfffffffff MIN: 6 MAX: 13 COUNT: 14
+***FAIL*** KEY: 3-14 p  VALUE:  pprppppppppppppppp MIN: 3 MAX: 14 COUNT: 17
+***FAIL*** KEY: 8-9 d  VALUE:  ddsddvdpd MIN: 8 MAX: 9 COUNT: 6
+***FAIL*** KEY: 7-8 v  VALUE:  vfpfrmltllx MIN: 7 MAX: 8 COUNT: 1
+***PASS*** KEY: 5-10 v  VALUE:  vvqvvvvvvbvv
+***PASS*** KEY: 4-8 w  VALUE:  wwzcwwwf
+***FAIL*** KEY: 2-5 l  VALUE:  lzllllnll MIN: 2 MAX: 5 COUNT: 7
+***FAIL*** KEY: 5-14 n  VALUE:  fkxsnvxclfnklbqrknvd MIN: 5 MAX: 14 COUNT: 3
+***PASS*** KEY: 3-13 r  VALUE:  rfrrfrrrrrrzr
+***PASS*** KEY: 6-7 v  VALUE:  vvvvvvqv
+***FAIL*** KEY: 9-11 k  VALUE:  kkklkzkgkrkj MIN: 9 MAX: 11 COUNT: 7
+***FAIL*** KEY: 7-14 p  VALUE:  ppgppppppppppqppppp MIN: 7 MAX: 14 COUNT: 17
+***FAIL*** KEY: 8-18 k  VALUE:  vwstrvjbjttzbrtghwk MIN: 8 MAX: 18 COUNT: 1
+***PASS*** KEY: 16-19 p  VALUE:  pppppppppqppppppppqp
+***PASS*** KEY: 7-10 l  VALUE:  lllllldmll
+***PASS*** KEY: 1-9 q  VALUE:  jnhbqjlvq
+***FAIL*** KEY: 3-5 x  VALUE:  kxjjx MIN: 3 MAX: 5 COUNT: 2
+***FAIL*** KEY: 6-10 z  VALUE:  trwqgzmwtvbgnvjkxz MIN: 6 MAX: 10 COUNT: 2
+***PASS*** KEY: 8-10 k  VALUE:  gtkbkksnkskkrkkk
+***PASS*** KEY: 8-16 b  VALUE:  bbbbgbbrxbbbbrlgb
+***FAIL*** KEY: 19-20 l  VALUE:  lnrrrbztcfsmcjkgdzlj MIN: 19 MAX: 20 COUNT: 2
+***FAIL*** KEY: 6-8 j  VALUE:  lsjhjjqjcx MIN: 6 MAX: 8 COUNT: 4
+***PASS*** KEY: 3-11 l  VALUE:  wvldjftflsgzcwllbbm
+***PASS*** KEY: 4-8 v  VALUE:  vvvbvvvgv
+***FAIL*** KEY: 16-18 k  VALUE:  bdkkktkkkkkkkkkqjq MIN: 16 MAX: 18 COUNT: 12
+***PASS*** KEY: 6-11 g  VALUE:  gqggrggvgbgg
+***PASS*** KEY: 8-11 c  VALUE:  ccskccccbhclc
+***PASS*** KEY: 3-9 k  VALUE:  wjkwhnkkfvxk
+***FAIL*** KEY: 6-8 q  VALUE:  qqqqklcjm MIN: 6 MAX: 8 COUNT: 4
+***PASS*** KEY: 9-15 z  VALUE:  zmzzzjzxmzzzbzv
+***FAIL*** KEY: 14-20 v  VALUE:  vkpjvvbrvvvfvzvvvcxv MIN: 14 MAX: 20 COUNT: 11
+***PASS*** KEY: 4-15 h  VALUE:  hhhtthhhhhhhhhhhh
+***PASS*** KEY: 7-9 v  VALUE:  vxdvzvvvchbvvvq
+***FAIL*** KEY: 16-17 w  VALUE:  hfgdbpwkqlwfvqtwf MIN: 16 MAX: 17 COUNT: 3
+***PASS*** KEY: 8-11 w  VALUE:  wwwwwwwjwwww
+***FAIL*** KEY: 10-12 z  VALUE:  rmvxznxnszkzdb MIN: 10 MAX: 12 COUNT: 3
+***FAIL*** KEY: 8-11 q  VALUE:  rhmqdzslbgqwq MIN: 8 MAX: 11 COUNT: 3
+***PASS*** KEY: 8-14 z  VALUE:  zzzzzzzzzzmzzzz
+***PASS*** KEY: 2-9 n  VALUE:  nnnnfvxnpvfjnnbg
+***PASS*** KEY: 1-8 w  VALUE:  twkwwbgw
+***PASS*** KEY: 7-8 l  VALUE:  plllgllsll
+***PASS*** KEY: 5-13 z  VALUE:  zzzzxnzzzzzzzgz
+***PASS*** KEY: 9-11 j  VALUE:  jjjjjjjjjjsk
+***FAIL*** KEY: 5-6 n  VALUE:  tktfwnqcqrv MIN: 5 MAX: 6 COUNT: 1
+***PASS*** KEY: 2-4 q  VALUE:  wrlqgqlh
+***FAIL*** KEY: 6-9 k  VALUE:  kkkkkkkkvkkkkkkkm MIN: 6 MAX: 9 COUNT: 15
+***PASS*** KEY: 3-8 x  VALUE:  dxxcrsxxbbqrfx
+***FAIL*** KEY: 10-11 l  VALUE:  llllllfllrl MIN: 10 MAX: 11 COUNT: 9
+***FAIL*** KEY: 1-2 s  VALUE:  rsssxzss MIN: 1 MAX: 2 COUNT: 5
+***FAIL*** KEY: 12-16 k  VALUE:  klkkkkkvkkzxkkkg MIN: 12 MAX: 16 COUNT: 11
+***PASS*** KEY: 7-8 g  VALUE:  gnggmggmgg
+***PASS*** KEY: 3-5 f  VALUE:  fvfpfghnvkdtpfjrf
+***FAIL*** KEY: 15-17 w  VALUE:  pxwzjdwcwwmmwnwxz MIN: 15 MAX: 17 COUNT: 6
+***PASS*** KEY: 8-13 w  VALUE:  wwwwwwwwwwwnwws
+***PASS*** KEY: 12-15 g  VALUE:  gkzgggggggggggltb
+***FAIL*** KEY: 5-9 g  VALUE:  ggrgcgggggggg MIN: 5 MAX: 9 COUNT: 11
+***PASS*** KEY: 1-7 x  VALUE:  xwjhmgxkqqtdx
+***PASS*** KEY: 2-8 f  VALUE:  vffkrwff
+***PASS*** KEY: 5-8 f  VALUE:  vcfflfflmf
+***FAIL*** KEY: 17-18 z  VALUE:  zwkzbhqnhznzlkqxnz MIN: 17 MAX: 18 COUNT: 5
+***PASS*** KEY: 11-16 d  VALUE:  ddddddsrdddpbdldrb
+***PASS*** KEY: 3-15 k  VALUE:  kkkgkkkxkkknkkv
+***PASS*** KEY: 9-11 z  VALUE:  lzzzgzzmzzdzzz
+***PASS*** KEY: 12-18 w  VALUE:  wwwwwwwwwnwwwwwwwsww
+***PASS*** KEY: 1-3 x  VALUE:  xkrbrxdvrncxd
+***PASS*** KEY: 1-6 z  VALUE:  zlndzbf
+***FAIL*** KEY: 4-6 h  VALUE:  phchhbxf MIN: 4 MAX: 6 COUNT: 3
+***PASS*** KEY: 2-14 r  VALUE:  mhlbmsrsgrwrtrbrpt
+***FAIL*** KEY: 6-13 d  VALUE:  fdpgbqbpmdmkdxkbl MIN: 6 MAX: 13 COUNT: 3
+***PASS*** KEY: 5-11 w  VALUE:  gtxwxmzwwtwrmwwwgwcd
+***PASS*** KEY: 5-15 r  VALUE:  lrpsrrrrrzrrcxng
+***FAIL*** KEY: 4-8 j  VALUE:  kqfknvjj MIN: 4 MAX: 8 COUNT: 2
+***PASS*** KEY: 17-18 j  VALUE:  jjjjjjjjjjjjjjjjjmj
+***PASS*** KEY: 9-10 f  VALUE:  fffsfffsfpfff
+***PASS*** KEY: 2-16 c  VALUE:  wcfpjtbpgbbbnnpzchn
+***PASS*** KEY: 2-8 m  VALUE:  rgmnzxxmwmbdldhbpnsp
+***PASS*** KEY: 3-11 v  VALUE:  xhvtvnjcccnsvgzv
+***PASS*** KEY: 8-12 c  VALUE:  cccccccnccckcc
+***PASS*** KEY: 3-5 n  VALUE:  nnbwn
+***FAIL*** KEY: 14-15 f  VALUE:  tffffffffffffrf MIN: 14 MAX: 15 COUNT: 13
+***FAIL*** KEY: 4-6 z  VALUE:  qmlsgz MIN: 4 MAX: 6 COUNT: 1
+***FAIL*** KEY: 2-4 r  VALUE:  rrrrr MIN: 2 MAX: 4 COUNT: 5
+***PASS*** KEY: 1-4 t  VALUE:  ttlcttw
+***PASS*** KEY: 3-4 j  VALUE:  jjjd
+***PASS*** KEY: 1-8 n  VALUE:  znnnnnnhn
+***FAIL*** KEY: 13-18 s  VALUE:  bspzsssrtssdvmwqss MIN: 13 MAX: 18 COUNT: 8
+***FAIL*** KEY: 7-9 x  VALUE:  xlgxdxxtqhxkbnxw MIN: 7 MAX: 9 COUNT: 6
+***PASS*** KEY: 5-7 x  VALUE:  xvxxxxxqxw
+***FAIL*** KEY: 10-14 l  VALUE:  qlllgzljczmpls MIN: 10 MAX: 14 COUNT: 5
+***PASS*** KEY: 2-16 v  VALUE:  vgvvvvvvvvvvvvvvv
+***PASS*** KEY: 9-12 j  VALUE:  jjjjjjjjfjjj
+***PASS*** KEY: 9-14 k  VALUE:  swkkkkckqkkrqlkkrtk
+***FAIL*** KEY: 3-5 j  VALUE:  jjjjtjj MIN: 3 MAX: 5 COUNT: 6
+***PASS*** KEY: 16-20 f  VALUE:  ffffffffffffffflffff
+***PASS*** KEY: 3-9 l  VALUE:  lhlxflczslf
+***PASS*** KEY: 8-9 j  VALUE:  bsjjjjjpxjjjj
+***FAIL*** KEY: 12-15 b  VALUE:  kbbbbbbbxbbhbbj MIN: 12 MAX: 15 COUNT: 11
+***FAIL*** KEY: 11-12 w  VALUE:  wwwwwwwwwbvwwwwwh MIN: 11 MAX: 12 COUNT: 14
+***PASS*** KEY: 3-11 g  VALUE:  nsggzgxljjlfxfl
+***PASS*** KEY: 15-18 h  VALUE:  hhhhwhhqhhtfhhhhhzhh
+***PASS*** KEY: 15-17 j  VALUE:  jwjjjjjjjzjjjjjjpj
+***FAIL*** KEY: 8-17 k  VALUE:  pkjckwmzqkkvqqshks MIN: 8 MAX: 17 COUNT: 5
+***PASS*** KEY: 1-8 b  VALUE:  vxbwwxrbbqsjb
+***FAIL*** KEY: 16-19 q  VALUE:  fqsqtqqqqrcjqqxxwqf MIN: 16 MAX: 19 COUNT: 9
+***FAIL*** KEY: 13-20 w  VALUE:  wxrcpvvxfkxnzfvgvfkn MIN: 13 MAX: 20 COUNT: 1
+***PASS*** KEY: 2-16 f  VALUE:  fqfffffffffffffff
+***PASS*** KEY: 7-9 k  VALUE:  kqbkxhkkkkkscfr
+***FAIL*** KEY: 3-5 d  VALUE:  dsdjddnndzbxtd MIN: 3 MAX: 5 COUNT: 6
+***FAIL*** KEY: 4-8 c  VALUE:  bvxgnmvczbsjvtc MIN: 4 MAX: 8 COUNT: 2
+***PASS*** KEY: 1-4 v  VALUE:  vvvv
+***PASS*** KEY: 7-13 b  VALUE:  dvbsbbbbbbbkcbb
+***FAIL*** KEY: 5-8 v  VALUE:  vvbrtvwvvvlvvsv MIN: 5 MAX: 8 COUNT: 9
+***PASS*** KEY: 4-6 w  VALUE:  wwbwnwwb
+***FAIL*** KEY: 6-7 q  VALUE:  gxbthqc MIN: 6 MAX: 7 COUNT: 1
+***PASS*** KEY: 1-2 k  VALUE:  pxkk
+***FAIL*** KEY: 3-4 n  VALUE:  ngpv MIN: 3 MAX: 4 COUNT: 1
+***PASS*** KEY: 4-8 h  VALUE:  hhhhzhkdj
+***PASS*** KEY: 10-13 t  VALUE:  rtttjtsfttttntwt
+***FAIL*** KEY: 11-12 g  VALUE:  dxgggvbwhnrcg MIN: 11 MAX: 12 COUNT: 4
+***FAIL*** KEY: 15-17 p  VALUE:  pppptpppppcjppppsp MIN: 15 MAX: 17 COUNT: 14
+***PASS*** KEY: 1-5 l  VALUE:  lkppsbblc
+***PASS*** KEY: 3-6 t  VALUE:  ttkdtp
+***PASS*** KEY: 12-14 h  VALUE:  xhhhhhhhhhhlhhfhh
+***PASS*** KEY: 11-14 s  VALUE:  ssssssssssssst
+***PASS*** KEY: 4-5 x  VALUE:  xmxxx
+***FAIL*** KEY: 14-18 g  VALUE:  ggggdgpgggjfgmngggg MIN: 14 MAX: 18 COUNT: 13
+***PASS*** KEY: 3-13 j  VALUE:  kwkjmmqtpcjcjhdllwjj
+***PASS*** KEY: 14-20 w  VALUE:  wwwwwwpwqnwwkwwwwwwn
+***FAIL*** KEY: 14-15 w  VALUE:  wwwwwwwwwwwwwmk MIN: 14 MAX: 15 COUNT: 13
+***PASS*** KEY: 4-13 z  VALUE:  zzzgzzzzjzzzzx
+***FAIL*** KEY: 15-17 l  VALUE:  gqngllrsxrlpxblfl MIN: 15 MAX: 17 COUNT: 5
+***FAIL*** KEY: 8-15 x  VALUE:  brlmqdmpfdqgmgptgxd MIN: 8 MAX: 15 COUNT: 1
+***PASS*** KEY: 1-2 h  VALUE:  hlhlg
+***PASS*** KEY: 1-2 g  VALUE:  gbjsl
+***PASS*** KEY: 14-18 x  VALUE:  xvxxfxxxxrxxxgxxxrx
+***FAIL*** KEY: 2-6 s  VALUE:  ssnbgssnsskhssnrz MIN: 2 MAX: 6 COUNT: 8
+***FAIL*** KEY: 2-3 v  VALUE:  mknzrq MIN: 2 MAX: 3 COUNT: 0
+***PASS*** KEY: 4-10 v  VALUE:  rvzqvrvvgvqvv
+***FAIL*** KEY: 8-15 z  VALUE:  cfznhznzwnzzrmm MIN: 8 MAX: 15 COUNT: 5
+***FAIL*** KEY: 14-17 h  VALUE:  hhhdnhhhhhhhhbhhg MIN: 14 MAX: 17 COUNT: 13
+***FAIL*** KEY: 13-15 p  VALUE:  jcfprqlvrnfnfnp MIN: 13 MAX: 15 COUNT: 2
+***PASS*** KEY: 2-8 h  VALUE:  zphrlkvhczdgrhrm
+***PASS*** KEY: 3-4 s  VALUE:  sskss
+***PASS*** KEY: 2-3 b  VALUE:  nbhbrkkzbs
+***FAIL*** KEY: 5-6 l  VALUE:  llllhr MIN: 5 MAX: 6 COUNT: 4
+***PASS*** KEY: 2-3 c  VALUE:  cckcd
+***PASS*** KEY: 2-7 d  VALUE:  sgcfddnqmjthdphl
+***PASS*** KEY: 1-3 b  VALUE:  vkcbb
+***PASS*** KEY: 7-8 q  VALUE:  gqqxhtfqqqqpqm
+***FAIL*** KEY: 12-19 m  VALUE:  rmpmmdvzmtmmbfmtxwm MIN: 12 MAX: 19 COUNT: 8
+***PASS*** KEY: 4-9 z  VALUE:  czcrzzzgl
+***PASS*** KEY: 8-9 s  VALUE:  ssstssszss
+***PASS*** KEY: 3-11 q  VALUE:  rqkxqckgqqqqb
+***PASS*** KEY: 13-18 d  VALUE:  dddmddddjdtdddddddd
+***FAIL*** KEY: 5-16 g  VALUE:  fnxpglggbrsgscqmzlfq MIN: 5 MAX: 16 COUNT: 4
+***PASS*** KEY: 2-5 c  VALUE:  lqfcc
+***FAIL*** KEY: 13-14 b  VALUE:  bphfdzgmhhwmbhb MIN: 13 MAX: 14 COUNT: 3
+***FAIL*** KEY: 2-14 f  VALUE:  kjcwnfhcqnwhbgm MIN: 2 MAX: 14 COUNT: 1
+***PASS*** KEY: 2-8 x  VALUE:  xxxxxxqx
+***PASS*** KEY: 4-5 p  VALUE:  ppppk
+***PASS*** KEY: 9-11 s  VALUE:  ssdslssssss
+***FAIL*** KEY: 3-5 q  VALUE:  msqqnnb MIN: 3 MAX: 5 COUNT: 2
+***PASS*** KEY: 2-4 n  VALUE:  pnnn
+***PASS*** KEY: 1-2 l  VALUE:  wglcs
+***PASS*** KEY: 5-7 f  VALUE:  fvffffj
+***PASS*** KEY: 4-6 d  VALUE:  dddddc
+***FAIL*** KEY: 4-5 s  VALUE:  prxsnscsm MIN: 4 MAX: 5 COUNT: 3
+***PASS*** KEY: 19-20 s  VALUE:  sssssssssssssssssssf
+***FAIL*** KEY: 13-16 m  VALUE:  mmtkphqvkrzpwzsm MIN: 13 MAX: 16 COUNT: 3
+***PASS*** KEY: 4-7 q  VALUE:  qqqfqqqq
+***FAIL*** KEY: 6-9 m  VALUE:  zbsggmvzsmpcm MIN: 6 MAX: 9 COUNT: 3
+***FAIL*** KEY: 3-6 p  VALUE:  ppqppppp MIN: 3 MAX: 6 COUNT: 7
+***PASS*** KEY: 1-12 r  VALUE:  rrrrnwwrbrbrhrjxr
+***PASS*** KEY: 8-9 r  VALUE:  rrrrrrrsr
+***FAIL*** KEY: 6-7 b  VALUE:  nbbbrbslsb MIN: 6 MAX: 7 COUNT: 5
+***PASS*** KEY: 1-2 v  VALUE:  ddvmtr
+***PASS*** KEY: 8-13 b  VALUE:  bbbbbbqgbrbcbqbb
+***PASS*** KEY: 4-6 k  VALUE:  kkkwkk
+***PASS*** KEY: 4-5 z  VALUE:  zmszpklzsvz
+***PASS*** KEY: 4-6 m  VALUE:  mdnmmmgrsqjjbctjvhm
+***FAIL*** KEY: 12-13 l  VALUE:  lwlmlrlllcpkz MIN: 12 MAX: 13 COUNT: 6
+***PASS*** KEY: 14-16 s  VALUE:  sssssssssssssssfx
+***FAIL*** KEY: 16-18 t  VALUE:  dttsttttttttttnttwt MIN: 16 MAX: 18 COUNT: 15
+***FAIL*** KEY: 8-11 r  VALUE:  rrrrrrrrrrcrdrr MIN: 8 MAX: 11 COUNT: 13
+***PASS*** KEY: 2-4 s  VALUE:  sngs
+***FAIL*** KEY: 3-8 s  VALUE:  rbstpgqdslkvkkzprdzp MIN: 3 MAX: 8 COUNT: 2
+***PASS*** KEY: 7-9 n  VALUE:  nnntnnnpnbjjn
+***PASS*** KEY: 5-8 h  VALUE:  shqhhfhghhqhdw
+***FAIL*** KEY: 6-17 n  VALUE:  dntjvnhjgrbtcnnmkdc MIN: 6 MAX: 17 COUNT: 4
+***FAIL*** KEY: 12-13 b  VALUE:  bbbbbbbbbbbjc MIN: 12 MAX: 13 COUNT: 11
+***PASS*** KEY: 13-15 g  VALUE:  gglggglgggvgwgzgggg
+***PASS*** KEY: 1-5 f  VALUE:  hfffff
+***FAIL*** KEY: 14-17 v  VALUE:  vvvvvvvvvvvvvvvvvvvv MIN: 14 MAX: 17 COUNT: 20
+***PASS*** KEY: 2-5 j  VALUE:  lcjjj
+***PASS*** KEY: 3-6 f  VALUE:  lzfxfmjfbgrl
+***PASS*** KEY: 3-4 k  VALUE:  gkkkxlx
+***PASS*** KEY: 5-7 n  VALUE:  vnnnnnndxn
+***PASS*** KEY: 10-12 t  VALUE:  mtttzttwtttkstjtztt
+***FAIL*** KEY: 11-18 t  VALUE:  btnttrttqbtgtxttstrc MIN: 11 MAX: 18 COUNT: 10
+***FAIL*** KEY: 15-16 b  VALUE:  sbfbbbbbbbbnbbrmbbb MIN: 15 MAX: 16 COUNT: 14
+***PASS*** KEY: 2-4 j  VALUE:  fjjjbj
+***PASS*** KEY: 2-6 m  VALUE:  qtlznmbbsznljmhd
+***FAIL*** KEY: 7-15 b  VALUE:  bbbbblgbbbbbbbbbbbbb MIN: 7 MAX: 15 COUNT: 18
+***FAIL*** KEY: 5-10 d  VALUE:  ddddddddddd MIN: 5 MAX: 10 COUNT: 11
+***FAIL*** KEY: 5-7 r  VALUE:  rhrrrrrrr MIN: 5 MAX: 7 COUNT: 8
+***FAIL*** KEY: 3-9 b  VALUE:  pqfnczzfb MIN: 3 MAX: 9 COUNT: 1
+***PASS*** KEY: 2-4 b  VALUE:  mzbxbk
+***FAIL*** KEY: 1-8 x  VALUE:  qpxxxxxrxxxcxvxt MIN: 1 MAX: 8 COUNT: 10
+***FAIL*** KEY: 5-8 c  VALUE:  pczkvcsqpfzcw MIN: 5 MAX: 8 COUNT: 3
+***FAIL*** KEY: 14-15 x  VALUE:  xxxxxxsxxxxxxxt MIN: 14 MAX: 15 COUNT: 13
+***PASS*** KEY: 2-3 d  VALUE:  dhzdd
+***PASS*** KEY: 10-11 j  VALUE:  gjjjjjjjjjbtj
+***FAIL*** KEY: 6-10 l  VALUE:  lllllwllflwlll MIN: 6 MAX: 10 COUNT: 11
+***PASS*** KEY: 9-14 n  VALUE:  ntnnnnqnnnnnng
+***FAIL*** KEY: 6-8 g  VALUE:  gggggpgvggg MIN: 6 MAX: 8 COUNT: 9
+***FAIL*** KEY: 9-11 h  VALUE:  hkvhhgvhhhrshml MIN: 9 MAX: 11 COUNT: 7
+***FAIL*** KEY: 6-7 m  VALUE:  wmmsmhmmc MIN: 6 MAX: 7 COUNT: 5
+***PASS*** KEY: 4-5 q  VALUE:  qqqmq
+***FAIL*** KEY: 1-13 l  VALUE:  llllllllllllll MIN: 1 MAX: 13 COUNT: 14
+***FAIL*** KEY: 12-13 q  VALUE:  hxhjqsqsqzqqmjnqks MIN: 12 MAX: 13 COUNT: 6
+***PASS*** KEY: 1-4 f  VALUE:  fdfc
+***FAIL*** KEY: 7-8 x  VALUE:  xxxxxnlx MIN: 7 MAX: 8 COUNT: 6
+***FAIL*** KEY: 2-3 x  VALUE:  bdhx MIN: 2 MAX: 3 COUNT: 1
+***FAIL*** KEY: 9-10 q  VALUE:  qmqqqqqqqw MIN: 9 MAX: 10 COUNT: 8
+***PASS*** KEY: 5-11 h  VALUE:  hnhhhhhhhhthmh
+***FAIL*** KEY: 11-13 n  VALUE:  fqtdnnnnnlnnx MIN: 11 MAX: 13 COUNT: 7
+***FAIL*** KEY: 8-9 w  VALUE:  wrwwwwwwf MIN: 8 MAX: 9 COUNT: 7
+***PASS*** KEY: 5-11 d  VALUE:  ddddntddgdd
+***PASS*** KEY: 2-6 f  VALUE:  qpfffzff
+***FAIL*** KEY: 8-9 q  VALUE:  qwqqqjbft MIN: 8 MAX: 9 COUNT: 4
+***FAIL*** KEY: 2-12 t  VALUE:  tttttttttttttt MIN: 2 MAX: 12 COUNT: 14
+***PASS*** KEY: 2-5 q  VALUE:  jqkzqrzqbtkcqgb
+***FAIL*** KEY: 9-14 z  VALUE:  zznzzzzcmvthzd MIN: 9 MAX: 14 COUNT: 7
+***PASS*** KEY: 7-14 j  VALUE:  rjjjjjjjjmjjjhjjj
+***PASS*** KEY: 7-8 w  VALUE:  hvwtwwwwwww
+***PASS*** KEY: 11-12 l  VALUE:  llllllllllxl
+***PASS*** KEY: 1-9 h  VALUE:  rhhhhhhhhh
+***PASS*** KEY: 8-9 m  VALUE:  mmmmmmmpm
+***FAIL*** KEY: 3-12 w  VALUE:  gbxksbkdvjpwrjplhwvf MIN: 3 MAX: 12 COUNT: 2
+***PASS*** KEY: 1-6 t  VALUE:  gtttsckj
+***PASS*** KEY: 9-12 v  VALUE:  wvbvvfvrvvxzvsqvfwrv
+***FAIL*** KEY: 8-10 s  VALUE:  fmqsscwtshsss MIN: 8 MAX: 10 COUNT: 6
+***FAIL*** KEY: 4-6 t  VALUE:  twtjrt MIN: 4 MAX: 6 COUNT: 3
+***PASS*** KEY: 4-6 q  VALUE:  qqqjnq
+***PASS*** KEY: 8-14 x  VALUE:  vxxxxxxhcxxxdxxm
+***PASS*** KEY: 17-19 z  VALUE:  zzzzzzzzzzzkzzgzzzsz
+***FAIL*** KEY: 10-11 c  VALUE:  cctccccccdw MIN: 10 MAX: 11 COUNT: 8
+***FAIL*** KEY: 2-3 n  VALUE:  nnsqnrnnnnnltn MIN: 2 MAX: 3 COUNT: 9
+***FAIL*** KEY: 8-17 x  VALUE:  tjdsxwtxwxcjtzxfxgkt MIN: 8 MAX: 17 COUNT: 5
+***PASS*** KEY: 7-11 p  VALUE:  pprppppppppp
+***PASS*** KEY: 2-15 s  VALUE:  rsswfmvsrdkjqjssl
+***PASS*** KEY: 3-8 b  VALUE:  jvpscbzbvb
+***FAIL*** KEY: 1-3 z  VALUE:  nzgzzz MIN: 1 MAX: 3 COUNT: 4
+***PASS*** KEY: 1-3 d  VALUE:  lfdd
+***PASS*** KEY: 9-12 s  VALUE:  sssstssssssb
+***PASS*** KEY: 5-8 k  VALUE:  kkkgkjkdkrwgk
+***PASS*** KEY: 2-4 x  VALUE:  pxxwj
+***PASS*** KEY: 1-2 j  VALUE:  mfjjb
+***FAIL*** KEY: 5-12 c  VALUE:  ccccpccccccjcccc MIN: 5 MAX: 12 COUNT: 14
+***FAIL*** KEY: 12-16 l  VALUE:  lllllllllllsllllllll MIN: 12 MAX: 16 COUNT: 19
+***PASS*** KEY: 3-7 x  VALUE:  xjxbgpxxgtx
+***PASS*** KEY: 3-4 z  VALUE:  zztzn
+***PASS*** KEY: 3-8 w  VALUE:  hwswwrwwww
+***FAIL*** KEY: 1-2 z  VALUE:  dzznmxzt MIN: 1 MAX: 2 COUNT: 3
+***PASS*** KEY: 14-16 n  VALUE:  nnnnnnnnnnnnnvnnn
+***PASS*** KEY: 2-6 q  VALUE:  pmqqqqqq
+***PASS*** KEY: 6-12 p  VALUE:  tpmdppppgpppgp
+***PASS*** KEY: 6-7 d  VALUE:  dddddpdd
+***PASS*** KEY: 8-10 f  VALUE:  fgffsmfrzfqlfffmnpr
+***FAIL*** KEY: 2-12 l  VALUE:  lrllllllllllll MIN: 2 MAX: 12 COUNT: 13
+***FAIL*** KEY: 9-10 j  VALUE:  jjjjjjjjqjjjj MIN: 9 MAX: 10 COUNT: 12
+***FAIL*** KEY: 4-5 g  VALUE:  kgjrhjmszxg MIN: 4 MAX: 5 COUNT: 2
+***FAIL*** KEY: 1-2 m  VALUE:  wzgczk MIN: 1 MAX: 2 COUNT: 0
+***PASS*** KEY: 3-4 c  VALUE:  sccc
+***PASS*** KEY: 13-16 p  VALUE:  pppphppppppppppv
+***PASS*** KEY: 3-9 g  VALUE:  kglkgdctgxxs
+***FAIL*** KEY: 7-8 z  VALUE:  zzzzvzbz MIN: 7 MAX: 8 COUNT: 6
+***FAIL*** KEY: 7-10 r  VALUE:  rrrvrrjrrrrrr MIN: 7 MAX: 10 COUNT: 11
+***FAIL*** KEY: 6-11 f  VALUE:  mdtdmfhpscfmrm MIN: 6 MAX: 11 COUNT: 2
+***PASS*** KEY: 1-5 s  VALUE:  sgvrgss
+***FAIL*** KEY: 2-3 s  VALUE:  tqlhxbs MIN: 2 MAX: 3 COUNT: 1
+***PASS*** KEY: 8-14 h  VALUE:  whhhlhhdhhhlhhh
+***PASS*** KEY: 1-14 c  VALUE:  zkctkncccccfcccpccc
+***PASS*** KEY: 7-18 s  VALUE:  sksssssssstsssshsg
+***FAIL*** KEY: 17-19 n  VALUE:  nnwnnnnnnnnnnnjndznf MIN: 17 MAX: 19 COUNT: 15
+***PASS*** KEY: 9-11 w  VALUE:  cwwswwwnwwbwwh
+***FAIL*** KEY: 10-11 x  VALUE:  nxhxxnxxxvx MIN: 10 MAX: 11 COUNT: 7
+***FAIL*** KEY: 6-9 f  VALUE:  fffffrfffffffff MIN: 6 MAX: 9 COUNT: 14
+***PASS*** KEY: 1-13 p  VALUE:  kppppppppppppp
+***PASS*** KEY: 9-11 g  VALUE:  ggzgxgggkgggzd
+***FAIL*** KEY: 5-13 r  VALUE:  rrrrrrrrrrrrrrrr MIN: 5 MAX: 13 COUNT: 16
+***PASS*** KEY: 12-14 p  VALUE:  ppppppppppplppp
+***PASS*** KEY: 9-13 d  VALUE:  dmdpddddqtddddddvd
+***FAIL*** KEY: 6-7 x  VALUE:  xxdgxxwgx MIN: 6 MAX: 7 COUNT: 5
+***FAIL*** KEY: 13-16 w  VALUE:  wwlwwwwlwwxwwfwf MIN: 13 MAX: 16 COUNT: 11
+***FAIL*** KEY: 5-9 d  VALUE:  dppdpddtmvl MIN: 5 MAX: 9 COUNT: 4
+***FAIL*** KEY: 5-6 p  VALUE:  phpppjpprpb MIN: 5 MAX: 6 COUNT: 7
+***PASS*** KEY: 14-17 n  VALUE:  nnnnnnnnnnnnnnnns
+***PASS*** KEY: 6-10 k  VALUE:  zjkkvkkzwkk
+***PASS*** KEY: 7-14 f  VALUE:  fffnnfpfffjgqqdf
+***FAIL*** KEY: 3-4 m  VALUE:  mmfmnmmxvm MIN: 3 MAX: 4 COUNT: 6
+***PASS*** KEY: 9-12 f  VALUE:  ffffffqfpgvzgfnf
+***FAIL*** KEY: 16-18 b  VALUE:  lbbwbbbbbbbbbbbbsb MIN: 16 MAX: 18 COUNT: 15
+***FAIL*** KEY: 9-10 t  VALUE:  rrthttjtttwlvpttgttt MIN: 9 MAX: 10 COUNT: 11
+***FAIL*** KEY: 8-9 x  VALUE:  xxrxxxxsx MIN: 8 MAX: 9 COUNT: 7
+***FAIL*** KEY: 1-2 d  VALUE:  ddthwdk MIN: 1 MAX: 2 COUNT: 3
+***FAIL*** KEY: 16-18 c  VALUE:  cfcmcczcvwccccgccccc MIN: 16 MAX: 18 COUNT: 14
+***PASS*** KEY: 2-4 t  VALUE:  ljztcptpmz
+***FAIL*** KEY: 13-17 d  VALUE:  dbvdddddddddpfzdd MIN: 13 MAX: 17 COUNT: 12
+***PASS*** KEY: 3-9 s  VALUE:  xssmzstbsrfz
+***FAIL*** KEY: 11-13 t  VALUE:  lrkbvdhvjzklltk MIN: 11 MAX: 13 COUNT: 1
+***PASS*** KEY: 6-14 g  VALUE:  gfqgggwggjlswdg
+***FAIL*** KEY: 6-10 n  VALUE:  nnnnntnnnnnnn MIN: 6 MAX: 10 COUNT: 12
+***PASS*** KEY: 3-4 v  VALUE:  hvvv
+***FAIL*** KEY: 14-15 t  VALUE:  tttttgttttttttj MIN: 14 MAX: 15 COUNT: 13
+***PASS*** KEY: 18-19 g  VALUE:  ggggggggggnggggggzgg
+***PASS*** KEY: 4-11 c  VALUE:  cxcrrccccrcncc
+***PASS*** KEY: 1-7 b  VALUE:  bjsqsbbzblt
+***PASS*** KEY: 4-7 n  VALUE:  nbjnnnqnbpc
+***FAIL*** KEY: 9-12 r  VALUE:  skrrrrrjrmrhr MIN: 9 MAX: 12 COUNT: 8
+***FAIL*** KEY: 7-18 x  VALUE:  vmrsdvxxpbjrxbnxqxxg MIN: 7 MAX: 18 COUNT: 6
+***FAIL*** KEY: 13-16 z  VALUE:  zzzzzdzzzzzzzzzpzzz MIN: 13 MAX: 16 COUNT: 17
+***PASS*** KEY: 8-10 p  VALUE:  hppppbptppsp
+***FAIL*** KEY: 8-9 h  VALUE:  hhhhhhxxkh MIN: 8 MAX: 9 COUNT: 7
+***FAIL*** KEY: 3-6 m  VALUE:  mmdmkmwmmmnd MIN: 3 MAX: 6 COUNT: 7
+***FAIL*** KEY: 1-9 c  VALUE:  ccccccccbcc MIN: 1 MAX: 9 COUNT: 10
+***FAIL*** KEY: 11-12 v  VALUE:  vvdnvmvsvvkx MIN: 11 MAX: 12 COUNT: 6
+***FAIL*** KEY: 13-14 f  VALUE:  dfffffmxffffff MIN: 13 MAX: 14 COUNT: 11
+***PASS*** KEY: 4-15 b  VALUE:  bbblblbvbbbbslbbbcq
+***FAIL*** KEY: 10-11 s  VALUE:  mvsxzpmssqx MIN: 10 MAX: 11 COUNT: 3
+***FAIL*** KEY: 5-8 g  VALUE:  bfgzlbmgjn MIN: 5 MAX: 8 COUNT: 2
+***FAIL*** KEY: 8-11 g  VALUE:  cgwlgszgfnk MIN: 8 MAX: 11 COUNT: 3
+***PASS*** KEY: 7-12 n  VALUE:  njmntnnsbncknqnn
+***FAIL*** KEY: 5-10 z  VALUE:  cfflzmzxdc MIN: 5 MAX: 10 COUNT: 2
+***PASS*** KEY: 3-5 k  VALUE:  drkrkpnhkpjhkk
+***FAIL*** KEY: 2-4 c  VALUE:  ncvw MIN: 2 MAX: 4 COUNT: 1
+***PASS*** KEY: 9-14 d  VALUE:  ddddbdddddddxfdd
+***PASS*** KEY: 11-13 q  VALUE:  qqsxqfqqqqqcqwqzq
+***PASS*** KEY: 2-8 w  VALUE:  rjdvtwgw
+***PASS*** KEY: 4-5 m  VALUE:  mmmmnms
+***FAIL*** KEY: 10-12 h  VALUE:  hhhlhhhhjkhsh MIN: 10 MAX: 12 COUNT: 9
+***PASS*** KEY: 2-4 g  VALUE:  xgtgg
+***FAIL*** KEY: 4-6 n  VALUE:  nnnqncnnn MIN: 4 MAX: 6 COUNT: 7
+***FAIL*** KEY: 16-18 x  VALUE:  xxxxxxxxxxxxxxxxxxx MIN: 16 MAX: 18 COUNT: 19
+***PASS*** KEY: 2-3 m  VALUE:  ctmmlm
+***FAIL*** KEY: 15-17 r  VALUE:  rrrrrrrcrrrrlrrrb MIN: 15 MAX: 17 COUNT: 14
+***FAIL*** KEY: 2-3 w  VALUE:  wgvwwjwwww MIN: 2 MAX: 3 COUNT: 7
+***FAIL*** KEY: 5-10 m  VALUE:  mmmmtmkmmmmpmmhm MIN: 5 MAX: 10 COUNT: 12
+***PASS*** KEY: 5-6 v  VALUE:  jsxvwvvsvcrzlnvqwmvq
+***PASS*** KEY: 1-3 v  VALUE:  wvvvr
+***FAIL*** KEY: 13-14 k  VALUE:  kwkkkxnpkkwkmf MIN: 13 MAX: 14 COUNT: 7
+***FAIL*** KEY: 7-15 p  VALUE:  ppppppvppppppppppp MIN: 7 MAX: 15 COUNT: 17
+***PASS*** KEY: 2-14 j  VALUE:  lnjjjghjjrjjjj
+***PASS*** KEY: 3-19 b  VALUE:  txxmgxhnbqhtjhjfvdbb
+***FAIL*** KEY: 10-13 g  VALUE:  zgwsbgkgjgdgtsm MIN: 10 MAX: 13 COUNT: 5
+***PASS*** KEY: 1-2 b  VALUE:  hrbsckfth
+***PASS*** KEY: 9-10 n  VALUE:  nnnnnnnnnp
+***PASS*** KEY: 7-8 f  VALUE:  ffffffdf
+***PASS*** KEY: 2-7 s  VALUE:  ssdglzsb
+***PASS*** KEY: 9-10 b  VALUE:  bbbbbdbbbqb
+***FAIL*** KEY: 6-7 s  VALUE:  ssssswk MIN: 6 MAX: 7 COUNT: 5
+***PASS*** KEY: 2-10 v  VALUE:  tvnxllwvhdkcjsvxlztx
+***PASS*** KEY: 5-6 w  VALUE:  wwwwrw
+***FAIL*** KEY: 17-18 b  VALUE:  bvpbnbrgvjcbbkjrbj MIN: 17 MAX: 18 COUNT: 6
+***PASS*** KEY: 5-7 s  VALUE:  ssstgss
+***PASS*** KEY: 2-8 k  VALUE:  hhsbmrkkfhkkxkkz
+***PASS*** KEY: 6-19 t  VALUE:  tttttdtttttttttttttt
+***PASS*** KEY: 7-17 s  VALUE:  ssssksrvssnsbsssrxsm
+***PASS*** KEY: 7-8 n  VALUE:  nnnnnnxn
+***FAIL*** KEY: 6-10 w  VALUE:  nwwcxwjschxpjkrqwvw MIN: 6 MAX: 10 COUNT: 5
+***FAIL*** KEY: 4-7 h  VALUE:  xhskgbhbbbq MIN: 4 MAX: 7 COUNT: 2
+***FAIL*** KEY: 8-11 k  VALUE:  xtfkkwnccck MIN: 8 MAX: 11 COUNT: 3
+***PASS*** KEY: 15-16 t  VALUE:  tttfttftttfttttkttt
+***FAIL*** KEY: 10-12 q  VALUE:  qqqqqqqqqqqcqqq MIN: 10 MAX: 12 COUNT: 14
+***PASS*** KEY: 2-3 t  VALUE:  wttt
+***FAIL*** KEY: 12-13 v  VALUE:  xvvvvvvvvvvkmv MIN: 12 MAX: 13 COUNT: 11
+***PASS*** KEY: 1-9 k  VALUE:  nkkdkkkkkkk
+***FAIL*** KEY: 7-13 t  VALUE:  wpmtclstqwtpctgcql MIN: 7 MAX: 13 COUNT: 4
+***PASS*** KEY: 4-7 s  VALUE:  qxlmqssqcbhstknvjzss
+***PASS*** KEY: 1-3 w  VALUE:  wjwxr
+***PASS*** KEY: 3-4 w  VALUE:  wwwgt
+***PASS*** KEY: 1-4 l  VALUE:  tkzlgkl
+***FAIL*** KEY: 3-16 c  VALUE:  ccccccccccccccccc MIN: 3 MAX: 16 COUNT: 17
+***FAIL*** KEY: 2-3 k  VALUE:  tnkp MIN: 2 MAX: 3 COUNT: 1
+***PASS*** KEY: 1-5 r  VALUE:  rrrrr
+***PASS*** KEY: 12-16 z  VALUE:  zzzzzzzzzzzfzzzz
+***PASS*** KEY: 5-8 w  VALUE:  qwxwvwcwvzlvrwwww
+***PASS*** KEY: 2-7 k  VALUE:  skcsgnk
+***PASS*** KEY: 3-11 z  VALUE:  zjzntzxzlzczdtz
+***FAIL*** KEY: 2-3 q  VALUE:  nwqqwfqlq MIN: 2 MAX: 3 COUNT: 4
+***FAIL*** KEY: 7-16 c  VALUE:  cmmfkhclcwqjcqsmccn MIN: 7 MAX: 16 COUNT: 6
+***FAIL*** KEY: 1-13 h  VALUE:  hhhhhhhhhhhhmfhh MIN: 1 MAX: 13 COUNT: 14
+***FAIL*** KEY: 3-8 q  VALUE:  pxqgbqsg MIN: 3 MAX: 8 COUNT: 2
+***FAIL*** KEY: 11-14 k  VALUE:  lgknbvvkkfkcqq MIN: 11 MAX: 14 COUNT: 4
+***PASS*** KEY: 4-9 n  VALUE:  nnsnxnfbjnjnnnkn
+***PASS*** KEY: 10-12 k  VALUE:  kkkgkrkrkkktxkk
+***FAIL*** KEY: 7-10 v  VALUE:  vvvvvvcvvgxvvvvqvp MIN: 7 MAX: 10 COUNT: 13
+***FAIL*** KEY: 16-18 f  VALUE:  fffffffffffffftfffff MIN: 16 MAX: 18 COUNT: 19
+***PASS*** KEY: 6-9 r  VALUE:  rlrrgrrrhr
+***FAIL*** KEY: 2-12 w  VALUE:  wwwwwwwwwwwww MIN: 2 MAX: 12 COUNT: 13
+***FAIL*** KEY: 5-7 w  VALUE:  fwwwswwwwwgw MIN: 5 MAX: 7 COUNT: 9
+***PASS*** KEY: 4-5 l  VALUE:  lvtvblll
+***FAIL*** KEY: 5-7 d  VALUE:  slfqbddnrvj MIN: 5 MAX: 7 COUNT: 2
+***PASS*** KEY: 1-7 g  VALUE:  xgggggxgg
+***PASS*** KEY: 9-17 k  VALUE:  kkkkkkkklkkkkkkkr
+***FAIL*** KEY: 7-8 h  VALUE:  xhbshhhtmxvh MIN: 7 MAX: 8 COUNT: 5
+***PASS*** KEY: 4-13 q  VALUE:  zsqqqqqtdkqgnrtqqqr
+***PASS*** KEY: 4-9 p  VALUE:  ppppppmpps
+***PASS*** KEY: 3-5 m  VALUE:  mmmmcl
+***PASS*** KEY: 1-6 h  VALUE:  jwhhchh
+***PASS*** KEY: 9-13 h  VALUE:  hhhhzvwhhbhhhhljhh
+***PASS*** KEY: 3-15 n  VALUE:  nkbtnlznnxffzjlpfm
+***FAIL*** KEY: 11-13 p  VALUE:  pzqpppppppgpt MIN: 11 MAX: 13 COUNT: 9
+***FAIL*** KEY: 10-11 n  VALUE:  nntnnvnnncn MIN: 10 MAX: 11 COUNT: 8
+***PASS*** KEY: 3-5 r  VALUE:  rddtrrdrt
+***PASS*** KEY: 8-10 j  VALUE:  jjjjjwjxgknjfjj
+***PASS*** KEY: 1-3 g  VALUE:  htmg
+***FAIL*** KEY: 7-8 p  VALUE:  tpppppnpppppp MIN: 7 MAX: 8 COUNT: 11
+***FAIL*** KEY: 1-7 t  VALUE:  tttttttt MIN: 1 MAX: 7 COUNT: 8
+***FAIL*** KEY: 9-10 x  VALUE:  xxxpnxrxxl MIN: 9 MAX: 10 COUNT: 6
+***PASS*** KEY: 1-4 p  VALUE:  npqpqpmh
+***PASS*** KEY: 1-10 b  VALUE:  bnsbgsnrbb
+***FAIL*** KEY: 1-3 t  VALUE:  tvtqmtth MIN: 1 MAX: 3 COUNT: 4
+***PASS*** KEY: 6-8 n  VALUE:  nnnnnnnp
+***PASS*** KEY: 8-10 d  VALUE:  jzddhkjdwpddddddcwj
+***PASS*** KEY: 6-8 h  VALUE:  xhhchhfchh
+***PASS*** KEY: 3-5 s  VALUE:  sssssr
+***PASS*** KEY: 1-3 s  VALUE:  sshs
+***PASS*** KEY: 17-19 r  VALUE:  rrrrrrrrrrrrrdhrrrfr
+***PASS*** KEY: 2-6 k  VALUE:  kkkkkck
+***FAIL*** KEY: 1-10 v  VALUE:  vvvgvvrvvjvvdvv MIN: 1 MAX: 10 COUNT: 11
+***FAIL*** KEY: 5-8 j  VALUE:  bjvdgjkj MIN: 5 MAX: 8 COUNT: 3
+***PASS*** KEY: 10-11 f  VALUE:  ffffffffftff
+***PASS*** KEY: 2-6 n  VALUE:  nnqqgv
+***PASS*** KEY: 5-8 t  VALUE:  tbrttttctrt
+***FAIL*** KEY: 7-10 j  VALUE:  jdwrhhjszjbkmfphj MIN: 7 MAX: 10 COUNT: 4
+***FAIL*** KEY: 3-4 x  VALUE:  cgxt MIN: 3 MAX: 4 COUNT: 1
+***FAIL*** KEY: 2-8 j  VALUE:  jjjjjjjjjqjjj MIN: 2 MAX: 8 COUNT: 12
+***PASS*** KEY: 1-6 g  VALUE:  bgggbwghg
+***FAIL*** KEY: 6-8 x  VALUE:  xxxbcbxl MIN: 6 MAX: 8 COUNT: 4
+***FAIL*** KEY: 5-6 t  VALUE:  qbmqfxcsr MIN: 5 MAX: 6 COUNT: 0
+***PASS*** KEY: 3-9 r  VALUE:  rrvrrcrrr
+***PASS*** KEY: 1-18 c  VALUE:  ccccccccccccccccczc
+***FAIL*** KEY: 12-14 k  VALUE:  kkkkqkfkkkkjkz MIN: 12 MAX: 14 COUNT: 10
+***FAIL*** KEY: 1-6 m  VALUE:  msmmmwmsmmmm MIN: 1 MAX: 6 COUNT: 9
+***FAIL*** KEY: 7-8 d  VALUE:  fdddqddjddfdpmdlf MIN: 7 MAX: 8 COUNT: 9
+***FAIL*** KEY: 4-17 k  VALUE:  wqjnlsmcskndlwpxb MIN: 4 MAX: 17 COUNT: 1
+***FAIL*** KEY: 7-15 h  VALUE:  hhhhhhhhhhhhhhhhh MIN: 7 MAX: 15 COUNT: 17
+***PASS*** KEY: 6-7 r  VALUE:  cgrrmrrrrgrbcnhfmvn
+***PASS*** KEY: 1-5 z  VALUE:  znzzz
+***PASS*** KEY: 13-18 l  VALUE:  lbtllllllzllllllbdl
+***FAIL*** KEY: 1-2 c  VALUE:  ccccc MIN: 1 MAX: 2 COUNT: 5
+***PASS*** KEY: 7-11 m  VALUE:  rmhmmmmmmmjmm
+***PASS*** KEY: 1-4 c  VALUE:  brccqr
+***FAIL*** KEY: 1-10 k  VALUE:  kkbdtkkqrkkkkkknklk MIN: 1 MAX: 10 COUNT: 12
+***FAIL*** KEY: 10-11 m  VALUE:  mqmmmmmmhvvlrmm MIN: 10 MAX: 11 COUNT: 9
+***PASS*** KEY: 14-15 r  VALUE:  rrrrrrrrrrrrrrk
+***FAIL*** KEY: 8-12 s  VALUE:  tlcssmclnvgstg MIN: 8 MAX: 12 COUNT: 3
+***PASS*** KEY: 3-14 q  VALUE:  xkqqsvcqdqqqjscfd
+***PASS*** KEY: 7-16 x  VALUE:  xxxxxxxxxxxxxxxcx
+***FAIL*** KEY: 2-5 s  VALUE:  wslkz MIN: 2 MAX: 5 COUNT: 1
+***FAIL*** KEY: 11-13 m  VALUE:  mzmvmmsmlmmppm MIN: 11 MAX: 13 COUNT: 8
+***PASS*** KEY: 10-15 x  VALUE:  xxxxxxxxxwxxxxxg
+***PASS*** KEY: 1-5 g  VALUE:  grgtggnh
+***FAIL*** KEY: 17-18 m  VALUE:  gzjvfgvcdxmxxftlzmb MIN: 17 MAX: 18 COUNT: 2
+***FAIL*** KEY: 3-12 b  VALUE:  bbbbbbbbbbbhrbbbbbbb MIN: 3 MAX: 12 COUNT: 18
+***FAIL*** KEY: 3-6 c  VALUE:  cccccmcc MIN: 3 MAX: 6 COUNT: 7
+***PASS*** KEY: 5-17 n  VALUE:  nnbnnnlnnnnnnqnnn
+***PASS*** KEY: 3-7 w  VALUE:  wwtwwww
+***FAIL*** KEY: 3-4 d  VALUE:  dbvfdw MIN: 3 MAX: 4 COUNT: 2
+***FAIL*** KEY: 10-13 r  VALUE:  drrrrzhmxfjdrtfgr MIN: 10 MAX: 13 COUNT: 6
+***PASS*** KEY: 1-7 l  VALUE:  llnqshlsjl
+***FAIL*** KEY: 2-4 m  VALUE:  mmmmm MIN: 2 MAX: 4 COUNT: 5
+***FAIL*** KEY: 5-9 r  VALUE:  dkklrrrnh MIN: 5 MAX: 9 COUNT: 3
+***FAIL*** KEY: 4-6 b  VALUE:  bhbbjk MIN: 4 MAX: 6 COUNT: 3
+***FAIL*** KEY: 3-6 b  VALUE:  nbbbnbbbb MIN: 3 MAX: 6 COUNT: 7
+***PASS*** KEY: 6-8 k  VALUE:  kknckkkjkkk
+***PASS*** KEY: 14-15 n  VALUE:  lnnnnnnnnnnnnnnn
+***PASS*** KEY: 2-5 h  VALUE:  hhhrsc
+***PASS*** KEY: 14-16 f  VALUE:  fffffffvfffffnfff
+***FAIL*** KEY: 6-13 r  VALUE:  rrrrrrrrrrrrrr MIN: 6 MAX: 13 COUNT: 14
+***FAIL*** KEY: 3-6 j  VALUE:  jjjjjjjj MIN: 3 MAX: 6 COUNT: 8
+***PASS*** KEY: 5-6 x  VALUE:  xxxxxvjx
+***FAIL*** KEY: 15-16 c  VALUE:  drfrpmbhcncvmxnk MIN: 15 MAX: 16 COUNT: 2
+***PASS*** KEY: 5-6 z  VALUE:  zzzzvz
+***FAIL*** KEY: 13-14 z  VALUE:  tbptvnfzxwlkgz MIN: 13 MAX: 14 COUNT: 2
+***FAIL*** KEY: 13-14 x  VALUE:  xrxxxvxxxxxxxxxxxbbx MIN: 13 MAX: 14 COUNT: 16
+***PASS*** KEY: 6-7 h  VALUE:  hhhhhhp
+***FAIL*** KEY: 4-9 v  VALUE:  vvvvvxvvsvvvvvzvpzq MIN: 4 MAX: 9 COUNT: 13
+***PASS*** KEY: 12-13 t  VALUE:  tttttttttttxct
+***PASS*** KEY: 1-13 q  VALUE:  qgmqhfgphjzrt
+***PASS*** KEY: 2-4 p  VALUE:  wppkz
+***PASS*** KEY: 1-4 x  VALUE:  hxxxx
+***PASS*** KEY: 2-19 j  VALUE:  jjjjjjjjjjjjjjjjjjbj
+***PASS*** KEY: 13-14 r  VALUE:  rrrrrrrrrrrrxr
+***FAIL*** KEY: 3-5 p  VALUE:  lpbwph MIN: 3 MAX: 5 COUNT: 2
+***PASS*** KEY: 10-13 w  VALUE:  wxwwdrwwwtdwwwswh
+***FAIL*** KEY: 1-7 f  VALUE:  ftffffgffff MIN: 1 MAX: 7 COUNT: 9
+***PASS*** KEY: 6-7 w  VALUE:  wwwwwwx
+***FAIL*** KEY: 9-13 b  VALUE:  bbbpwbjbkbhbbktz MIN: 9 MAX: 13 COUNT: 8
+***PASS*** KEY: 1-2 n  VALUE:  hwnn
+***FAIL*** KEY: 4-7 k  VALUE:  skkknxdf MIN: 4 MAX: 7 COUNT: 3
+***PASS*** KEY: 4-7 l  VALUE:  lllljnlt
+***PASS*** KEY: 11-17 s  VALUE:  ssssqssssjrsmgssstgs
+***FAIL*** KEY: 1-6 d  VALUE:  dddddkddd MIN: 1 MAX: 6 COUNT: 8
+***FAIL*** KEY: 9-10 z  VALUE:  zzkzzzzzzpzzzzzz MIN: 9 MAX: 10 COUNT: 14
+***PASS*** KEY: 2-17 l  VALUE:  wpltglllsslllwlslrpc
+***FAIL*** KEY: 11-17 d  VALUE:  cndddtdnvlnkkrfzdcz MIN: 11 MAX: 17 COUNT: 5
+***PASS*** KEY: 18-19 t  VALUE:  tttttfttttrttttttttt
+***PASS*** KEY: 3-9 p  VALUE:  pbpppdfpfpp
+***FAIL*** KEY: 16-17 b  VALUE:  cxtqsbfbtkxqbprzbbgr MIN: 16 MAX: 17 COUNT: 5
+***FAIL*** KEY: 6-7 g  VALUE:  ggzxpvpdfggjrgkqdjb MIN: 6 MAX: 7 COUNT: 5
+***FAIL*** KEY: 4-7 z  VALUE:  zkjzvpf MIN: 4 MAX: 7 COUNT: 2
+***FAIL*** KEY: 11-12 c  VALUE:  cjcccccccpccp MIN: 11 MAX: 12 COUNT: 10
+***PASS*** KEY: 6-13 x  VALUE:  xzhxgzxfxxsvxh
+***PASS*** KEY: 7-14 n  VALUE:  nxnqnnqnqnnnnnn
+***FAIL*** KEY: 6-9 v  VALUE:  njfrfxbqvv MIN: 6 MAX: 9 COUNT: 2
+***PASS*** KEY: 1-4 r  VALUE:  dmrrl
+***PASS*** KEY: 3-12 p  VALUE:  ppmkphqgdfphhcpd
+***PASS*** KEY: 6-10 m  VALUE:  nmmmmcwmmmlsm
+***FAIL*** KEY: 6-8 r  VALUE:  drbzrhdr MIN: 6 MAX: 8 COUNT: 3
+***PASS*** KEY: 1-10 m  VALUE:  dfsmnmmdmm
+***FAIL*** KEY: 2-3 f  VALUE:  dlzzdhh MIN: 2 MAX: 3 COUNT: 0
+***PASS*** KEY: 5-7 q  VALUE:  kqqqhrqq
+***FAIL*** KEY: 10-13 m  VALUE:  vmmwpmlmnckmcmm MIN: 10 MAX: 13 COUNT: 7
+***FAIL*** KEY: 2-7 x  VALUE:  cxkbqkf MIN: 2 MAX: 7 COUNT: 1
+***FAIL*** KEY: 10-13 x  VALUE:  xxxxxxxxxhxxxxx MIN: 10 MAX: 13 COUNT: 14
+***PASS*** KEY: 1-4 m  VALUE:  qjpm
+***PASS*** KEY: 1-16 l  VALUE:  zmlxxnlzzbhfscll
+***PASS*** KEY: 9-10 m  VALUE:  mmmmmmtmmmcmc
+***FAIL*** KEY: 2-3 h  VALUE:  hfhhh MIN: 2 MAX: 3 COUNT: 4
+***PASS*** KEY: 1-4 d  VALUE:  dddt
+***PASS*** KEY: 1-10 w  VALUE:  wwwlwbwwsswdww
+***FAIL*** KEY: 1-3 q  VALUE:  fqrqqqqqqqqbq MIN: 1 MAX: 3 COUNT: 10
+***FAIL*** KEY: 11-12 s  VALUE:  ggcxrkcsntpsf MIN: 11 MAX: 12 COUNT: 2
+***PASS*** KEY: 4-5 c  VALUE:  cccfcc
+***PASS*** KEY: 6-12 c  VALUE:  jcccbckcqxcss
+***PASS*** KEY: 10-14 g  VALUE:  ggwgfggjggggfhlg
+***FAIL*** KEY: 4-5 j  VALUE:  jjqdvt MIN: 4 MAX: 5 COUNT: 2
+***PASS*** KEY: 2-3 p  VALUE:  cppp
+***FAIL*** KEY: 1-12 b  VALUE:  blbhbbbbbbbbbbgbbbb MIN: 1 MAX: 12 COUNT: 16
+***PASS*** KEY: 6-7 l  VALUE:  lnjqdlllltlvkwnvlxs
+***PASS*** KEY: 7-10 q  VALUE:  qqqbpqqqhdq
+***FAIL*** KEY: 4-12 s  VALUE:  swssssssssshjsszrss MIN: 4 MAX: 12 COUNT: 14
+***FAIL*** KEY: 5-6 q  VALUE:  dqlvjfqqqqmqxq MIN: 5 MAX: 6 COUNT: 7
+***FAIL*** KEY: 19-20 x  VALUE:  xxxxxxxwxxxxxxxxxxvx MIN: 19 MAX: 20 COUNT: 18
+***PASS*** KEY: 10-15 c  VALUE:  cchcccccccccccjc
+***FAIL*** KEY: 6-8 s  VALUE:  sxmssfwdss MIN: 6 MAX: 8 COUNT: 5
+***PASS*** KEY: 2-5 t  VALUE:  ttglwxxghtznp
+***PASS*** KEY: 1-9 v  VALUE:  mlvvvxnwrwvv
+***PASS*** KEY: 17-19 j  VALUE:  jjjjjjjjjjjjjjjjdjpj
+***PASS*** KEY: 6-15 w  VALUE:  wwwwwwwcwwwwwwww
+***PASS*** KEY: 2-5 b  VALUE:  zbblgb
+***PASS*** KEY: 9-10 l  VALUE:  gllllllllzl
+***PASS*** KEY: 5-7 k  VALUE:  qkknzkfncgkckkj
+***FAIL*** KEY: 3-7 r  VALUE:  tllmrjr MIN: 3 MAX: 7 COUNT: 2
+***FAIL*** KEY: 8-12 d  VALUE:  chkdcslxddddd MIN: 8 MAX: 12 COUNT: 6
+***PASS*** KEY: 1-6 n  VALUE:  nmsnjdn
+***FAIL*** KEY: 11-12 z  VALUE:  zzzzzzzzzzck MIN: 11 MAX: 12 COUNT: 10
+***FAIL*** KEY: 8-11 d  VALUE:  nwzdcqvddfd MIN: 8 MAX: 11 COUNT: 4
+***PASS*** KEY: 1-18 m  VALUE:  wmmmmmmmmmmmmmmmmmm
+***PASS*** KEY: 16-17 c  VALUE:  cccccscckccccccvccc
+***PASS*** KEY: 6-10 g  VALUE:  ggggmdgtgg
+***FAIL*** KEY: 4-5 k  VALUE:  khkxrqxwb MIN: 4 MAX: 5 COUNT: 2
+***PASS*** KEY: 1-7 r  VALUE:  lrrkrqrwbkk
+***FAIL*** KEY: 1-5 p  VALUE:  phdppmwnfxpjpbgpppbd MIN: 1 MAX: 5 COUNT: 8
+***PASS*** KEY: 3-8 k  VALUE:  knjxpwkkzkmzkwfknvzg
+***FAIL*** KEY: 9-16 r  VALUE:  gpdtlxhntjfjjtlsxd MIN: 9 MAX: 16 COUNT: 0
+***FAIL*** KEY: 2-6 l  VALUE:  lskblllkqxdllmhl MIN: 2 MAX: 6 COUNT: 7
+***FAIL*** KEY: 8-9 g  VALUE:  hxfgghdgg MIN: 8 MAX: 9 COUNT: 4
+***FAIL*** KEY: 9-10 g  VALUE:  gtsgglgggtgg MIN: 9 MAX: 10 COUNT: 8
+***FAIL*** KEY: 9-10 v  VALUE:  vvvvvvvvvtvvv MIN: 9 MAX: 10 COUNT: 12
+***FAIL*** KEY: 6-20 z  VALUE:  hdxggqznjfwjnlvmwsmz MIN: 6 MAX: 20 COUNT: 2
+***FAIL*** KEY: 3-4 r  VALUE:  rprg MIN: 3 MAX: 4 COUNT: 2
+***PASS*** KEY: 2-5 z  VALUE:  jzzjqqvp
+***PASS*** KEY: 5-6 r  VALUE:  rrrrpr
+***PASS*** KEY: 14-15 q  VALUE:  qqqqqqqqqqqqqlq
+***PASS*** KEY: 2-6 d  VALUE:  ddfxwvd
+***FAIL*** KEY: 14-17 z  VALUE:  zzzzzzzzzzzzzzzzjzz MIN: 14 MAX: 17 COUNT: 18
+***FAIL*** KEY: 19-20 c  VALUE:  ckhccpjcjcxcsccvdngh MIN: 19 MAX: 20 COUNT: 8
+***PASS*** KEY: 2-13 k  VALUE:  jkgfcnqkhdkdjk
+***PASS*** KEY: 5-6 s  VALUE:  sssssvs
+***PASS*** KEY: 5-18 s  VALUE:  ssssrssssssssssssss
+***PASS*** KEY: 1-5 k  VALUE:  kkkvk
+***FAIL*** KEY: 7-9 m  VALUE:  zqrwxkmjr MIN: 7 MAX: 9 COUNT: 1
+***PASS*** KEY: 2-9 v  VALUE:  xvvqbvfkwd
+***PASS*** KEY: 9-11 r  VALUE:  rrrfrrrrhrrr
+***PASS*** KEY: 2-20 r  VALUE:  vrvcqskfwkqrdhvtlshr
+***FAIL*** KEY: 6-8 b  VALUE:  bbbgdvbb MIN: 6 MAX: 8 COUNT: 5
+***PASS*** KEY: 4-16 j  VALUE:  cmtlnsprjjfhjgmj
+***PASS*** KEY: 2-7 v  VALUE:  vvvvnvr
+***PASS*** KEY: 9-13 s  VALUE:  msssrsssnsssssss
+***PASS*** KEY: 6-13 p  VALUE:  pppfvppppppppp
+***PASS*** KEY: 1-3 m  VALUE:  nmmx
+***PASS*** KEY: 1-5 c  VALUE:  cccww
+***FAIL*** KEY: 8-20 h  VALUE:  gzkhwrhrjdphrrhnjhcm MIN: 8 MAX: 20 COUNT: 5
+***PASS*** KEY: 7-11 h  VALUE:  hhhhhhlhbhhh
+***PASS*** KEY: 9-11 b  VALUE:  bbbbbbbbjbp
+***FAIL*** KEY: 3-5 t  VALUE:  nstxrvjkjq MIN: 3 MAX: 5 COUNT: 1
+***PASS*** KEY: 6-9 s  VALUE:  ssnsssssksc
+***PASS*** KEY: 2-8 r  VALUE:  ttbrrmrfr
+***FAIL*** KEY: 8-16 l  VALUE:  lllllllllllllllll MIN: 8 MAX: 16 COUNT: 17
+***FAIL*** KEY: 9-14 t  VALUE:  httdgxxtthtsxtpsml MIN: 9 MAX: 14 COUNT: 6
+***PASS*** KEY: 10-13 n  VALUE:  nnnnfnnnnpncnm
+***PASS*** KEY: 2-3 z  VALUE:  zmzgxp
+***PASS*** KEY: 7-11 x  VALUE:  xxrxcxxvxxfjxsvpxm
+***FAIL*** KEY: 9-10 c  VALUE:  ccfccccwcc MIN: 9 MAX: 10 COUNT: 8
+***PASS*** KEY: 18-19 f  VALUE:  ffffffffffffffffffxf
+***FAIL*** KEY: 8-11 h  VALUE:  hhhhhhhhhhlhhnjh MIN: 8 MAX: 11 COUNT: 13
+***PASS*** KEY: 1-14 q  VALUE:  wxqnqqqqqqtqqq
+***PASS*** KEY: 8-10 n  VALUE:  nnnnnbnxhnn
+***FAIL*** KEY: 6-17 q  VALUE:  gjlcqjvhsbjmcgxvv MIN: 6 MAX: 17 COUNT: 1
+***PASS*** KEY: 2-5 k  VALUE:  jspjkkkk
+***FAIL*** KEY: 4-5 r  VALUE:  rrrrrr MIN: 4 MAX: 5 COUNT: 6
+***FAIL*** KEY: 10-12 m  VALUE:  mmmmmmmmmmmsmgmm MIN: 10 MAX: 12 COUNT: 14
+***FAIL*** KEY: 2-4 v  VALUE:  hxfhfs MIN: 2 MAX: 4 COUNT: 0
+***FAIL*** KEY: 3-6 w  VALUE:  nckwlw MIN: 3 MAX: 6 COUNT: 2
+***FAIL*** KEY: 10-13 s  VALUE:  pssssssfcnjcs MIN: 10 MAX: 13 COUNT: 7
+***PASS*** KEY: 5-13 c  VALUE:  jczpcmcccccccjpc
+***PASS*** KEY: 1-4 b  VALUE:  gbbb
+***FAIL*** KEY: 3-4 g  VALUE:  vrggfvxsgmggkgsm MIN: 3 MAX: 4 COUNT: 6
+***FAIL*** KEY: 4-7 c  VALUE:  chccccgccccscpcc MIN: 4 MAX: 7 COUNT: 12
+***FAIL*** KEY: 12-14 g  VALUE:  ggggggggghgbgk MIN: 12 MAX: 14 COUNT: 11
+***PASS*** KEY: 9-16 p  VALUE:  prppzppdppppkpjfpc
+***PASS*** KEY: 9-11 l  VALUE:  llllllllblfl
+***PASS*** KEY: 4-10 d  VALUE:  dgdzdddddddd
+***PASS*** KEY: 3-10 f  VALUE:  mffnffvjxtfdjd
+***PASS*** KEY: 1-4 z  VALUE:  nzzcz
+***PASS*** KEY: 4-5 b  VALUE:  bbbbrb
+***FAIL*** KEY: 11-14 g  VALUE:  ggggggggzggggcgggggg MIN: 11 MAX: 14 COUNT: 18
+***FAIL*** KEY: 3-10 l  VALUE:  hblknspmlx MIN: 3 MAX: 10 COUNT: 2
+***FAIL*** KEY: 12-13 k  VALUE:  kkhkkkkvkkkkzk MIN: 12 MAX: 13 COUNT: 11
+***FAIL*** KEY: 14-15 s  VALUE:  sdsgspstttvfsks MIN: 14 MAX: 15 COUNT: 6
+***PASS*** KEY: 2-4 d  VALUE:  ddkml
+***FAIL*** KEY: 5-13 n  VALUE:  njvdnxghhkxlsrm MIN: 5 MAX: 13 COUNT: 2
+***FAIL*** KEY: 1-5 h  VALUE:  hhhzzvcdhhhhhhhh MIN: 1 MAX: 5 COUNT: 11
+***FAIL*** KEY: 5-6 k  VALUE:  bkckkkkkkkckkkkzb MIN: 5 MAX: 6 COUNT: 12
+***FAIL*** KEY: 1-2 r  VALUE:  rkrrrrrtrrdnrr MIN: 1 MAX: 2 COUNT: 10
+***PASS*** KEY: 3-4 p  VALUE:  pppq
+***FAIL*** KEY: 1-6 f  VALUE:  cgggvn MIN: 1 MAX: 6 COUNT: 0
+***PASS*** KEY: 9-15 q  VALUE:  qlqqqbqqqqqqqqq
+***PASS*** KEY: 4-9 l  VALUE:  lllclllhll
+***FAIL*** KEY: 6-7 t  VALUE:  tztrtwt MIN: 6 MAX: 7 COUNT: 4
+***PASS*** KEY: 4-11 m  VALUE:  mmgmpmsqrmmmbwmm
+***PASS*** KEY: 8-13 p  VALUE:  wpkpcpppgwplpppp
+***PASS*** KEY: 7-9 w  VALUE:  wwwwtwwqdw
+***PASS*** KEY: 2-13 v  VALUE:  pvmmfzmjvvqvv
+***PASS*** KEY: 2-15 w  VALUE:  wlwwwlgmhwwgwwkwz
+***FAIL*** KEY: 11-13 r  VALUE:  pfjmrrdqnbrwrn MIN: 11 MAX: 13 COUNT: 4
+***FAIL*** KEY: 6-7 j  VALUE:  jhdjjjzj MIN: 6 MAX: 7 COUNT: 5
+***PASS*** KEY: 5-10 f  VALUE:  ffffzffffjff
+***PASS*** KEY: 4-6 v  VALUE:  qqvvvvvlbzdv
+***FAIL*** KEY: 11-14 t  VALUE:  ttqtttttttttttttthtt MIN: 11 MAX: 14 COUNT: 18
+***PASS*** KEY: 5-6 f  VALUE:  ffffff
+***PASS*** KEY: 10-14 d  VALUE:  dddddcddndkddd
+***FAIL*** KEY: 4-5 v  VALUE:  hvvmv MIN: 4 MAX: 5 COUNT: 3
+***FAIL*** KEY: 19-20 r  VALUE:  xbpdfrkmtgzrrqrrjrrr MIN: 19 MAX: 20 COUNT: 8
+***PASS*** KEY: 7-10 z  VALUE:  zzzzzzzbzq
+***PASS*** KEY: 2-11 q  VALUE:  gqqlcqjlqrsbqkqqq
+***PASS*** KEY: 3-6 g  VALUE:  ggppjgg
+***PASS*** KEY: 6-8 w  VALUE:  wrwcwwjswnwwwp
+***PASS*** KEY: 10-12 c  VALUE:  chdpcccccccwcdvhtmc
+***FAIL*** KEY: 6-7 k  VALUE:  nkdkhwsq MIN: 6 MAX: 7 COUNT: 2
+***PASS*** KEY: 9-12 g  VALUE:  ggzgggggvgtjgg
+***PASS*** KEY: 2-9 c  VALUE:  pgctwtlccvl
+***FAIL*** KEY: 5-12 k  VALUE:  bkcdkpjrpkkv MIN: 5 MAX: 12 COUNT: 4
+***PASS*** KEY: 2-5 d  VALUE:  ddhbdbl
+***PASS*** KEY: 10-15 p  VALUE:  pspppfppwppppwpp
+***PASS*** KEY: 12-13 f  VALUE:  ffffffcffffff
+***FAIL*** KEY: 15-16 n  VALUE:  fflrvmnrvjnrznqgq MIN: 15 MAX: 16 COUNT: 3
+***FAIL*** KEY: 3-7 v  VALUE:  vvcvvvvvv MIN: 3 MAX: 7 COUNT: 8
+***FAIL*** KEY: 13-14 j  VALUE:  jrjjjjjjjjjjjs MIN: 13 MAX: 14 COUNT: 12
+***PASS*** KEY: 19-20 h  VALUE:  hhhhhhhhhhhhhhhhhhht
+***PASS*** KEY: 7-15 g  VALUE:  ggggggkggggggggdg
+***FAIL*** KEY: 13-17 p  VALUE:  pzrpphmphgpkpbppj MIN: 13 MAX: 17 COUNT: 8
+***PASS*** KEY: 5-6 c  VALUE:  cccccrc
+***PASS*** KEY: 14-15 c  VALUE:  cclcccccccccccc
+***FAIL*** KEY: 4-10 q  VALUE:  bqtxmcgxnjnkvq MIN: 4 MAX: 10 COUNT: 2
+***PASS*** KEY: 4-6 x  VALUE:  mbtxxxxxxtm
+***PASS*** KEY: 3-11 b  VALUE:  bbbcnzglwcbqxgwvbc
+***PASS*** KEY: 4-15 n  VALUE:  npncnnnznnkqdnqnn
+***PASS*** KEY: 3-4 f  VALUE:  fbcff
+***FAIL*** KEY: 10-11 b  VALUE:  bbbbbwbbbmc MIN: 10 MAX: 11 COUNT: 8
+***PASS*** KEY: 3-7 p  VALUE:  pppphpp
+***PASS*** KEY: 9-11 x  VALUE:  mxxxxxxxxqqx
+***PASS*** KEY: 2-13 q  VALUE:  qqqzqqnxvqqsqjzl
+***FAIL*** KEY: 15-17 f  VALUE:  fwtfjjfffwfffffph MIN: 15 MAX: 17 COUNT: 10
+***FAIL*** KEY: 4-9 b  VALUE:  lhlbxslpxfbzzn MIN: 4 MAX: 9 COUNT: 2
+***PASS*** KEY: 4-10 w  VALUE:  qrwgmwdwlww
+***PASS*** KEY: 8-10 c  VALUE:  ccqclccvcccc
+***FAIL*** KEY: 2-9 s  VALUE:  xwxncpjgch MIN: 2 MAX: 9 COUNT: 0
+***PASS*** KEY: 2-10 r  VALUE:  frsbkmqqpsqdpzrvpr
+***PASS*** KEY: 15-16 v  VALUE:  vvvvvvvvvvvvvvfv
+***PASS*** KEY: 9-11 f  VALUE:  fffhffffvffvfq
+***PASS*** KEY: 4-5 h  VALUE:  hhhthh
+***PASS*** KEY: 10-11 d  VALUE:  ddldddddxdfdd
+***FAIL*** KEY: 8-9 z  VALUE:  wrzbzzzdz MIN: 8 MAX: 9 COUNT: 5
+***FAIL*** KEY: 11-12 x  VALUE:  xxxxxxxxxnqxxnxx MIN: 11 MAX: 12 COUNT: 13
+***PASS*** KEY: 5-13 m  VALUE:  mmmmlmkmsmxzmpmmcmm
+***FAIL*** KEY: 9-10 d  VALUE:  ddcdfdbcqn MIN: 9 MAX: 10 COUNT: 4
+***FAIL*** KEY: 3-14 t  VALUE:  gnpksvbtpzxrsw MIN: 3 MAX: 14 COUNT: 1
+***FAIL*** KEY: 4-7 m  VALUE:  hfvdmmnszdmb MIN: 4 MAX: 7 COUNT: 3
+***PASS*** KEY: 4-10 t  VALUE:  wtfttttttbmntsth
+***PASS*** KEY: 6-8 l  VALUE:  lllllzljl
+***FAIL*** KEY: 4-8 l  VALUE:  nkpmjlrbtsxdzkqjqj MIN: 4 MAX: 8 COUNT: 1
+***FAIL*** KEY: 11-12 m  VALUE:  mtmmmmmmmmsvb MIN: 11 MAX: 12 COUNT: 9
+***FAIL*** KEY: 12-13 c  VALUE:  cccccccccccccc MIN: 12 MAX: 13 COUNT: 14
+***FAIL*** KEY: 8-10 g  VALUE:  xggpbmgkfg MIN: 8 MAX: 10 COUNT: 4
+***PASS*** KEY: 6-12 s  VALUE:  sssksjxssssssfw
+***FAIL*** KEY: 8-14 n  VALUE:  qqlxkxnnhvbdzn MIN: 8 MAX: 14 COUNT: 3
+VALID PASSWORDS: %!i(int=419)
